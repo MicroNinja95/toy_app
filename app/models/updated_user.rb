@@ -1,2 +1,0 @@
-class UpdatedUser < ApplicationRecord
-end
