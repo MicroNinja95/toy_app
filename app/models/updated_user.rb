@@ -1,0 +1,2 @@
+class UpdatedUser < ApplicationRecord
+end
